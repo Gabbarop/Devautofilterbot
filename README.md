@@ -15,7 +15,7 @@
   <img src="[https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png](https://github.com/Gabbarop/Devautofilterbot)" alt="Devautofilterbot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Devautofilterbot</b>
 </h1>
 
 
